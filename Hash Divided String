@@ -1,0 +1,11 @@
+class Solution:
+    def stringHash(self, s: str, k: int) -> str:
+        hashed_result = []
+        for index in range(0, len(s), k):
+            segment = s[index:index + k]
+            total = sum(ord(char) - ord('a') for char in segment)
+            hashed_index = total % 26
+            hashed_char = chr(hashed_index + ord('a'))
+            hashed_result.append(hashed_char)
+        return ''.join(hashed_result)
+        
