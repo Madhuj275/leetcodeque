@@ -1,0 +1,11 @@
+class Solution:
+    def twoSum(self, nums, target):
+        res = {}
+        
+        for i in range(len(nums)):
+            current = target - nums[i]
+            if current in res:
+                return [res[current], i]
+            res[nums[i]] = i
+        
+        return [-1, -1]
