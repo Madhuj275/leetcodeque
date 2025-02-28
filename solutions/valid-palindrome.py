@@ -4,7 +4,7 @@
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        chars=[char.lower() for char in s if char.isalpha()]
+        chars=[char.lower() for char in s if char.isalnum()]
         if len(chars)==0:
             return True
         n=len(chars)
