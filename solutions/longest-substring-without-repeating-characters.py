@@ -13,6 +13,6 @@ class Solution:
                 char_set.remove(s[left])
                 left += 1  
             char_set.add(s[i])  
-            max_count = max(max_count, i - left + 1)  
+            max_count = max(max_count, len(char_set))  
 
         return max_count
