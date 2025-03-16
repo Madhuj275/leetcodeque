@@ -1,0 +1,35 @@
+name: Sync LeetCode Submissions
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12 PM UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run LeetCode Sync Script
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+        run: python leetcode_sync.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Updated LeetCode solutions $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
