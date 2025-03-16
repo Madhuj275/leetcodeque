@@ -11,8 +11,6 @@ GITHUB_BRANCH = "main"  # Change if using another branch
 LEETCODE_USERNAME = "madhuj27"
 LEETCODE_SESSION = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTEzODExMTQiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJkYmQ0YjcxZTY2MWNmZGYwOTAzOTliOTY5ZWI0YjMzN2QwNGMwNWU0MGY2NGIzMzdlOWIxMzVlZjI1N2IyN2E2Iiwic2Vzc2lvbl91dWlkIjoiMmZjNjFkY2QiLCJpZCI6MTEzODExMTQsImVtYWlsIjoibWFkaHVqLjIwMDRAeWFob28uY29tIiwidXNlcm5hbWUiOiJtYWRodWoyNyIsInVzZXJfc2x1ZyI6Im1hZGh1ajI3IiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL2RlZmF1bHRfYXZhdGFyLmpwZyIsInJlZnJlc2hlZF9hdCI6MTc0MjExOTUzMywiaXAiOiIxMDMuNTYuMTk3LjUwIiwiaWRlbnRpdHkiOiIzZmEzMWI1MmRkNmViYzUxN2U1NDkyZDQzZDc3ZTYxYyIsImRldmljZV93aXRoX2lwIjpbImExMmMxNGFmODIyZjlkODEwMmRlZGI2NDAyOGJiMzIyIiwiMTAzLjU2LjE5Ny41MCJdLCJfc2Vzc2lvbl9leHBpcnkiOjEyMDk2MDB9.0GXTquteLq7dULG5Aj3BddTree46gpOXY1IPoL7apc4"
 
-
-
 if not LEETCODE_SESSION:
     print("❌ LeetCode session token is missing. Please set LEETCODE_SESSION.")
     exit(1)
@@ -24,14 +22,14 @@ HEADERS = {
 
 LEETCODE_SUBMISSIONS_API = "https://leetcode.com/api/submissions/"
 
-def fetch_submissions():
-    """Fetches all accepted submissions from LeetCode using pagination."""
+def fetch_all_submissions():
+    """Fetches all accepted submissions from LeetCode using proper pagination."""
     submissions = []
-    last_key = ""
-    limit = 100  # Fetch 20 at a time
+    offset = 0
+    limit = 20  # API limit is 20 submissions per request
 
     while True:
-        url = f"{LEETCODE_SUBMISSIONS_API}?offset=0&limit={limit}&lastkey={last_key}"
+        url = f"{LEETCODE_SUBMISSIONS_API}?offset={offset}&limit={limit}"
         response = requests.get(url, headers=HEADERS)
 
         if response.status_code != 200:
@@ -42,14 +40,12 @@ def fetch_submissions():
         try:
             data = response.json()
             fetched = data.get("submissions_dump", [])
+
             if not fetched:
                 break  # Stop if no more submissions
             
             submissions.extend(fetched)
-            last_key = data.get("last_key", "")
-            
-            if not last_key:
-                break  # Stop if no next page
+            offset += limit  # Move to the next batch
 
         except json.JSONDecodeError:
             print("❌ Error decoding JSON response.")
@@ -61,7 +57,7 @@ def fetch_submissions():
 
 def save_to_file(submission):
     """Saves a submission to a file in a structured format."""
-    title_slug = submission.get('title_slug', 'unknown_problem')
+    title_slug = submission.get('title_slug', f"unknown_{submission.get('title', 'problem')}").replace(" ", "_")
     code = submission.get('code', '')
 
     if not code:
@@ -85,7 +81,7 @@ def save_to_file(submission):
 
 def sync_solutions():
     """Fetch, save, and push LeetCode submissions to GitHub."""
-    submissions = fetch_submissions()
+    submissions = fetch_all_submissions()
     if not submissions:
         print("⚠️ No submissions found.")
         return
