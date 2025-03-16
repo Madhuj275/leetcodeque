@@ -26,7 +26,7 @@ def fetch_all_submissions():
     """Fetches all accepted submissions from LeetCode using proper pagination."""
     submissions = []
     offset = 0
-    limit = 20  # API limit is 20 submissions per request
+    limit = 50  # API limit is 20 submissions per request
 
     while True:
         url = f"{LEETCODE_SUBMISSIONS_API}?offset={offset}&limit={limit}"
