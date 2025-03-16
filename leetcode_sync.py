@@ -12,6 +12,7 @@ LEETCODE_USERNAME = "madhuj27"
 LEETCODE_SESSION = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTEzODExMTQiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJkYmQ0YjcxZTY2MWNmZGYwOTAzOTliOTY5ZWI0YjMzN2QwNGMwNWU0MGY2NGIzMzdlOWIxMzVlZjI1N2IyN2E2Iiwic2Vzc2lvbl91dWlkIjoiMmZjNjFkY2QiLCJpZCI6MTEzODExMTQsImVtYWlsIjoibWFkaHVqLjIwMDRAeWFob28uY29tIiwidXNlcm5hbWUiOiJtYWRodWoyNyIsInVzZXJfc2x1ZyI6Im1hZGh1ajI3IiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL2RlZmF1bHRfYXZhdGFyLmpwZyIsInJlZnJlc2hlZF9hdCI6MTc0MjExOTUzMywiaXAiOiIxMDMuNTYuMTk3LjUwIiwiaWRlbnRpdHkiOiIzZmEzMWI1MmRkNmViYzUxN2U1NDkyZDQzZDc3ZTYxYyIsImRldmljZV93aXRoX2lwIjpbImExMmMxNGFmODIyZjlkODEwMmRlZGI2NDAyOGJiMzIyIiwiMTAzLjU2LjE5Ny41MCJdLCJfc2Vzc2lvbl9leHBpcnkiOjEyMDk2MDB9.0GXTquteLq7dULG5Aj3BddTree46gpOXY1IPoL7apc4"
 
 
+
 if not LEETCODE_SESSION:
     print("❌ LeetCode session token is missing. Please set LEETCODE_SESSION.")
     exit(1)
@@ -21,24 +22,42 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-LEETCODE_SUBMISSIONS_API = "https://leetcode.com/api/submissions/?offset=0&limit=20&lastkey="
+LEETCODE_SUBMISSIONS_API = "https://leetcode.com/api/submissions/"
 
 def fetch_submissions():
-    """Fetches the latest accepted submissions from LeetCode."""
-    response = requests.get(LEETCODE_SUBMISSIONS_API, headers=HEADERS)
+    """Fetches all accepted submissions from LeetCode using pagination."""
+    submissions = []
+    last_key = ""
+    limit = 20  # Fetch 20 at a time
 
-    if response.status_code != 200:
-        print(f"❌ Failed to fetch submissions. HTTP {response.status_code}")
-        print(response.text)
-        exit(1)
+    while True:
+        url = f"{LEETCODE_SUBMISSIONS_API}?offset=0&limit={limit}&lastkey={last_key}"
+        response = requests.get(url, headers=HEADERS)
 
-    try:
-        data = response.json()
-        return data.get("submissions_dump", [])
-    except json.JSONDecodeError:
-        print("❌ Error decoding JSON response.")
-        print(response.text)
-        exit(1)
+        if response.status_code != 200:
+            print(f"❌ Failed to fetch submissions. HTTP {response.status_code}")
+            print(response.text)
+            break
+
+        try:
+            data = response.json()
+            fetched = data.get("submissions_dump", [])
+            if not fetched:
+                break  # Stop if no more submissions
+            
+            submissions.extend(fetched)
+            last_key = data.get("last_key", "")
+            
+            if not last_key:
+                break  # Stop if no next page
+
+        except json.JSONDecodeError:
+            print("❌ Error decoding JSON response.")
+            print(response.text)
+            break
+
+    print(f"✅ Fetched {len(submissions)} submissions.")
+    return submissions
 
 def save_to_file(submission):
     """Saves a submission to a file in a structured format."""
@@ -53,8 +72,7 @@ def save_to_file(submission):
     problem_title = submission.get("title", "Unknown")
 
     # Create a solutions folder if it doesn't exist
-    if not os.path.exists("solutions"):
-        os.makedirs("solutions")
+    os.makedirs("solutions", exist_ok=True)
 
     filename = f"solutions/{title_slug}.py"
     with open(filename, "w", encoding="utf-8") as f:
@@ -69,7 +87,7 @@ def sync_solutions():
     """Fetch, save, and push LeetCode submissions to GitHub."""
     submissions = fetch_submissions()
     if not submissions:
-        print("⚠️ No recent submissions found.")
+        print("⚠️ No submissions found.")
         return
 
     for sub in submissions:
