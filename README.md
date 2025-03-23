@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Hash Table
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
