@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
