@@ -4,7 +4,7 @@
 
 class Solution:
     def numberOfPowerfulInt(self, start: int, end: int, lim: int, suf: str) -> int:
-        def count(num: str, suf: str, lim: int) -> int:
+        def count(num, suf, lim):
             if len(num) < len(suf):
                 return 0
             if len(num) == len(suf):
