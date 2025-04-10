@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
+| [1585-the-kth-factor-of-n](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
