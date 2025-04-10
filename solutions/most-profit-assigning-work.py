@@ -9,7 +9,7 @@ class Solution:
         pr=0
         temp =[]
         
-        for i in range(len(worker)):
+        for i in range(len(profit)):
             temp.append((difficulty[i], profit[i]))  
         temp.sort()
         worker.sort()
