@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0087-scramble-string) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
