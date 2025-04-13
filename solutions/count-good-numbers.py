@@ -9,25 +9,17 @@ class Solution(object):
         :rtype: int
         """
         MOD = 10**9 + 7
+
+        def power(a, b):
+            result = 1
+            a %= MOD
+            while b > 0:
+                if b % 2 == 1:
+                    result = (result * a) % MOD
+                a = (a * a) % MOD
+                b //= 2
+            return result
+
         even = (n + 1) // 2
         odd = n // 2
-
-        a = 5
-        b = even
-        res1 = 1
-        while b > 0:
-            if b % 2 == 1:
-                res1 = (res1 * a) % MOD
-            a = (a * a) % MOD
-            b //= 2
-
-        a = 4
-        b = odd
-        res2 = 1
-        while b > 0:
-            if b % 2 == 1:
-                res2 = (res2 * a) % MOD
-            a = (a * a) % MOD
-            b //= 2
-
-        return (res1 * res2) % MOD
+        return (power(5, even) * power(4, odd)) % MOD
