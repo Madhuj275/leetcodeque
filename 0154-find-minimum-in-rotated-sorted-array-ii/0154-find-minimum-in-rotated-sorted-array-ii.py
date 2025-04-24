@@ -1,4 +1,4 @@
 class Solution:
     def findMin(self, nums):
-        nums.sort()
-        return nums[0]
+        mini=min(nums)
+        return mini
