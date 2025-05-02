@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Topological Sort
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
