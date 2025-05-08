@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
