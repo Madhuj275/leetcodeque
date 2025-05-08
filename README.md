@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [0985-bag-of-tokens](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0985-bag-of-tokens) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
@@ -160,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
