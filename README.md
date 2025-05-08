@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Divide and Conquer
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -375,4 +379,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
+## Linked List
+|  |
+| ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
