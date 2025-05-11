@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Divide and Conquer
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 ## Enumeration
 |  |
 | ------- |
