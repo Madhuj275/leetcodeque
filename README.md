@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1961-maximum-ice-cream-bars](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Trie
 |  |
 | ------- |
