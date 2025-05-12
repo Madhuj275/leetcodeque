@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
 | [1293-three-consecutive-odds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1293-three-consecutive-odds) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
@@ -323,11 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -432,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
