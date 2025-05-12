@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Recursion
 |  |
 | ------- |
