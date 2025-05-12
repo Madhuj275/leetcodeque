@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1500-count-largest-group) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
