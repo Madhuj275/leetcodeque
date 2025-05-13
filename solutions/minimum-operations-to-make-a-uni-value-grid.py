@@ -6,8 +6,6 @@ import math
 class Solution:
     def minOperations(self, grid: List[List[int]], x: int) -> int:
         mat=[num for row in grid for num in row]
-        if len(mat)<=1:
-            return 0
         mat.sort()
         count=0
         a=math.ceil(mat[-1]/2)
