@@ -10,15 +10,15 @@ class Solution:
             return 1
         prev=0
         count=0
-        res=0
+        res=[]
         for i in range(1,len(nums)):
             curr=abs(nums[i]-nums[i-1])
             if curr == prev:
-                res+=count
+                res.append(nums[i-1])
                 count+=1
             else:
                 prev=curr
                 count+=1
             
-        return res
+        return len(res) + 1
         
