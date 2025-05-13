@@ -4,41 +4,25 @@
 
 class Solution:
     def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
-        def dp(x):
-            digits = list(map(int, str(x)))
-            n = len(digits)
-            suf_len = len(s)
-            suf_digits = list(map(int, s))
-            seen = {}
+        def count(x):
+            sfx_len = len(s)
+            sfx_int = int(s)
+            res = 0
 
-            def f(i, tight, zero, path):
-                if i == n:
-                    if len(path) < suf_len:
-                        return 0
-                    if path[-suf_len:] == suf_digits:
-                        return 1
-                    return 0
+            def ok(n):
+                return all(int(c) <= limit for c in str(n))
 
-                key = (i, tight, zero, tuple(path[-suf_len:]))
-                if key in seen:
-                    return seen[key]
+            for l in range(sfx_len, 20):  
+                p = 10 ** sfx_len
+                low = 10 ** (l - sfx_len - 1) if l - sfx_len > 0 else 0
+                high = 10 ** (l - sfx_len)
 
-                res = 0
-                max_d = digits[i] if tight else 9
+                for pre in range(low, high):
+                    n = int(str(pre) + s)
+                    if n > x:
+                        break
+                    if ok(n):
+                        res += 1
+            return res
 
-                for d in range(0, max_d + 1):
-                    if d > limit:
-                        continue
-                    nt = tight and (d == max_d)
-                    nz = zero and d == 0
-                    if zero and d == 0:
-                        res += f(i + 1, nt, nz, path)
-                    else:
-                        res += f(i + 1, nt, False, path + [d])
-
-                seen[key] = res
-                return res
-
-            return f(0, True, True, [])
-
-        return dp(finish) - dp(start - 1)
+        return count(finish) - count(start - 1)
