@@ -4,27 +4,39 @@
 
 class Solution:
     def rootCount(self, edges: List[List[int]], guesses: List[List[int]], k: int) -> int:
-        graph = defaultdict(list)
-        for i, j in edges:
-            graph[i].append(j)
-            graph[j].append(i)
+        n = len(edges) + 1
+        adj = [[] for _ in range(n)]
+        for u, v in edges:
+            adj[u].append(v)
+            adj[v].append(u)
+        guess_set = set((u, v) for u, v in guesses)
         
-        gt = set((i, j) for i, j in guesses)
-
-        def get_correct_pairs(i, parent):
-            next_nodes = graph[i]
-            n_correct = 0
-            for next_node in next_nodes:
-                if next_node == parent:
-                    continue
-                if (i, next_node) in gt:
-                    n_correct += 1
-                n_correct += get_correct_pairs(next_node, i)
-            return n_correct
+        initial_count = 0
+        q = deque([(0, -1)])
+        while q:
+            u, parent = q.popleft()
+            for v in adj[u]:
+                if v != parent:
+                    if (u, v) in guess_set:
+                        initial_count += 1
+                    q.append((v, u))
         
-        ans = 0
-        for i in graph:
-            if get_correct_pairs(i, None) >= k:
-                ans += 1
+        ans = 1 if initial_count >= k else 0
+        visited = [False] * n
+        visited[0] = True
+        q2 = deque([(0, initial_count)])
+        
+        while q2:
+            u, cnt = q2.popleft()
+            for v in adj[u]:
+                if not visited[v]:
+                    new_cnt = cnt
+                    if (u, v) in guess_set:
+                        new_cnt -= 1
+                    if (v, u) in guess_set:
+                        new_cnt += 1
+                    if new_cnt >= k:
+                        ans += 1
+                    visited[v] = True
+                    q2.append((v, new_cnt))
         return ans
-            
