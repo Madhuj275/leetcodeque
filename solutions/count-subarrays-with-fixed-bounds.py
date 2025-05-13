@@ -2,18 +2,15 @@
 # Difficulty: Unknown
 # Solution:
 
-class Solution:
+class Solution(object):
     def countSubarrays(self, nums, minK, maxK):
-        n = len(nums)
-        ans = 0
-        mini = maxi = temp = -1
-        for i in range(n):
-            if nums[i] < minK or nums[i] > maxK:
-                temp = i
-            if nums[i] == minK:
-                mini = i
-            if nums[i] == maxK:
-                maxi = i
-            res = min(maxi, mini) - temp
-            ans += max(0, res)
-        return ans
+        count = 0
+        for i in range(len(nums)):
+            mini = float('inf')
+            maxi = float('-inf')
+            for j in range(i, len(nums)):
+                mini = min(mini, nums[j])
+                maxi = max(maxi, nums[j])
+                if mini == minK and maxi == maxK:
+                    count += 1
+        return count
