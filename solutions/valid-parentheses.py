@@ -4,28 +4,15 @@
 
 class Solution:
     def isValid(self, s: str) -> bool:
-        def isValidHelper(s: str, index: int) -> bool:
-            if index == len(s):
-                return True
-            
-            if index + 1 < len(s) and s[index + 1] == ')':
-                if s[index] == '(':
-                    return isValidHelper(s, index + 2)
-                else:
-                    return False
-            
-            if index + 1 < len(s) and s[index + 1] == ']':
-                if s[index] == '[':
-                    return isValidHelper(s, index + 2)
-                else:
-                    return False
-            
-            if index + 1 < len(s) and s[index + 1] == '}':
-                if s[index] == '{':
-                    return isValidHelper(s, index + 2)
-                else:
-                    return False
-            
-            return isValidHelper(s, index + 1)
+        stack = []
+        bracket_map = {')': '(', '}': '{', ']': '['}
 
-        return isValidHelper(s, 0)
+        for char in s:
+            if char in bracket_map:
+                top_element = stack.pop() if stack else '#'
+                if bracket_map[char] != top_element:
+                    return False
+            else:
+                stack.append(char)
+
+        return not stack
