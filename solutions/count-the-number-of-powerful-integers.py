@@ -3,26 +3,42 @@
 # Solution:
 
 class Solution:
-    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
-        def count(x):
-            sfx_len = len(s)
-            sfx_int = int(s)
-            res = 0
+    def numberOfPowerfulInt(self, a: int, b: int, lim: int, s: str) -> int:
+        def ok(x):
+            x = str(x)
+            if not x.endswith(s):
+                return False
+            for d in x:
+                if int(d) > lim:
+                    return False
+            return True
 
-            def ok(n):
-                return all(int(c) <= limit for c in str(n))
+        def cnt(x):
+            s_x = str(x)
+            n = len(s_x)
+            dp = {}
 
-            for l in range(sfx_len, 20):  
-                p = 10 ** sfx_len
-                low = 10 ** (l - sfx_len - 1) if l - sfx_len > 0 else 0
-                high = 10 ** (l - sfx_len)
+            def go(i, tight, zero):
+                k = (i, tight, zero)
+                if k in dp:
+                    return dp[k]
+                if i == n:
+                    return 0 if zero else 1
+                res = 0
+                up = int(s_x[i]) if tight else 9
+                for d in range(0, up + 1):
+                    if d > lim:
+                        continue
+                    nt = tight and (d == up)
+                    nz = zero and (d == 0)
+                    res += go(i + 1, nt, nz)
+                dp[k] = res
+                return res
 
-                for pre in range(low, high):
-                    n = int(str(pre) + s)
-                    if n > x:
-                        break
-                    if ok(n):
-                        res += 1
-            return res
+            return go(0, True, True)
 
-        return count(finish) - count(start - 1)
+        ans = 0
+        for x in range(a, b + 1):
+            if ok(x):
+                ans += 1
+        return ans
