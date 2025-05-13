@@ -3,28 +3,44 @@
 # Solution:
 
 class Solution:
-    def numberOfPowerfulInt(self, start: int, end: int, lim: int, suf: str) -> int:
-        def count(num: str, suf: str, lim: int) -> int:
-            if len(num) < len(suf):
-                return 0
-            if len(num) == len(suf):
-                return 1 if num >= suf else 0
+    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
+        def count(n):
+            digits = list(map(int, str(n)))
+            L = len(digits)
+            suf_len = len(s)
+            suf = [int(x) for x in s]
+            dp = {}
 
-            res = 0
-            pre_len = len(num) - len(suf)
+            def dfs(i, tight, started, last_digits):
+                if i == L:
+                    if not started:
+                        return 0
+                    if len(last_digits) < suf_len:
+                        return 0
+                    if last_digits[-suf_len:] == suf:
+                        return 1
+                    return 0
 
-            for i in range(pre_len):
-                d = int(num[i])
-                if d > lim:
-                    res += (lim + 1) ** (pre_len - i)
-                    return res
-                res += d * (lim + 1) ** (pre_len - i - 1)
+                key = (i, tight, started, tuple(last_digits[-suf_len:]))
+                if key in dp:
+                    return dp[key]
 
-            if num[-len(suf):] >= suf:
-                res += 1
+                res = 0
+                max_d = digits[i] if tight else 9
 
-            return res
+                for d in range(0, max_d + 1):
+                    if d > limit:
+                        continue
+                    new_tight = tight and (d == max_d)
+                    new_started = started or d != 0
+                    new_last_digits = last_digits.copy()
+                    if new_started:
+                        new_last_digits.append(d)
+                    res += dfs(i + 1, new_tight, new_started, new_last_digits)
 
-        a = str(start - 1)
-        b = str(end)
-        return count(b, suf, lim) - count(a, suf, lim)
+                dp[key] = res
+                return res
+
+            return dfs(0, True, False, [])
+
+        return count(finish) - count(start - 1)
