@@ -12,7 +12,7 @@ class Solution:
         count=0
         res=0
         for i in range(1,len(nums)):
-            curr=nums[i]-nums[i-1]
+            curr=abs(nums[i]-nums[i-1])
             if curr == prev:
                 res+=count
                 count+=1
