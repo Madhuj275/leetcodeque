@@ -3,24 +3,22 @@
 # Solution:
 
 class Solution:
-    def findErrorNums(self, arr: list[int]) -> list[int]:
-        n = len(arr)
+    def findErrorNums(self, arr: list[int]) -> list[list[int]]:
         seen = set()
-        duplicate = 0
-        missing = 0
-
-        for num in arr:
-            if num in seen:
-                duplicate = num
+        duplicates = []
+        for index, element in enumerate(arr):
+            if element in seen:
+                for dup in duplicates:
+                    if dup[0] == element:
+                        dup.append(index)
+                        break
+                else:
+                    duplicates.append(element)
+                    duplicates.append(index+1)
             else:
-                seen.add(num)
+                seen.add(element)
 
-        for i in range(1, n + 1):
-            if i not in seen:
-                missing = i
-                break
-
-        return [duplicate, missing]
+        return duplicates
 
 
         
