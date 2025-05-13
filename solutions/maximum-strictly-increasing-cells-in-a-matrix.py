@@ -2,23 +2,56 @@
 # Difficulty: Unknown
 # Solution:
 
-class Solution:
-    def maxIncreasingCells(self, mat):
-        m, n, dict1 = len(mat), len(mat[0]), defaultdict(list)
+from typing import List
+from functools import cache
+from math import inf
 
+class Solution:
+    def maxIncreasingCells(self, mat: List[List[int]]) -> int:
+        m, n = len(mat), len(mat[0])
+        sorted_rows = []
+        for i in range(m):
+            row = [(mat[i][j], j) for j in range(n)]
+            sorted_rows.append(list(sorted(row)))
+        sorted_cols = []
+        for j in range(n):
+            col = [(mat[i][j], i) for i in range(m)]
+            sorted_cols.append(list(sorted(col)))
+        
+        def upper_bound(arr, x):
+            l = -1
+            r = len(arr)
+            while r - l > 1:
+                mid = l + (r - l) // 2
+                if arr[mid][0] > x:
+                    r = mid
+                else:
+                    l = mid
+            return r
+        
+        @cache
+        def go(i, j):
+            res = 1
+            row = sorted_rows[i]
+            rowub = upper_bound(row, mat[i][j])
+            val = mat[i][j]
+            for ind in range(rowub, len(row)):
+                if row[ind][0] != val:
+                    res = max(res, 1 + go(i, row[ind][1]))
+                    break
+            col = sorted_cols[j]
+            colub = upper_bound(col, mat[i][j])
+            for ind in range(colub, len(col)):
+                if col[ind][0] != val:
+                    res = max(res, 1 + go(col[ind][1], j))
+                    break
+            return res
+
+        ans = -inf
         for i in range(m):
             for j in range(n):
-                dict1[mat[i][j]].append([i,j])
+                ans = max(ans, go(i, j))
+        return ans
 
-        row, col = [0]*m, [0]*n 
 
-        dp = [[0]*n for _ in range(m)]
 
-        for key,val in sorted(dict1.items()):
-            for (x,y) in val:
-                dp[x][y] = 1 + max(row[x],col[y])
-            for (x,y) in val:
-                row[x] = max(row[x],dp[x][y])
-                col[y] = max(col[y],dp[x][y])
-
-        return max(col) 
