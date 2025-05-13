@@ -4,19 +4,23 @@
 
 class Solution:
     def minCapability(self, nums: List[int], k: int) -> int:
-        i=0
-        j=i+2
-        tsum=0
-        min_res=float('inf')
-        while j < len(nums) :
-            tsum = max(nums[i],nums[j])
-            min_res=min(min_res,tsum)
-            j+=1
-        i+=1
+        left, right = min(nums), max(nums)
 
-        return min_res
+        def check(cap):
+            count = 0
+            i = 0
+            while i < len(nums):
+                if nums[i] <= cap:
+                    count += 1
+                    i += 1  
+                i += 1
+            return count >= k
 
+        while left < right:
+            mid = (left + right) // 2
+            if check(mid):
+                right = mid  
+            else:
+                left = mid + 1  
 
-
-
-        
+        return left
