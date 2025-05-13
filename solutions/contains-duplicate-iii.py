@@ -10,24 +10,15 @@ class Solution(object):
         :type t: int
         :rtype: bool
         """
-        if k < 0 or t < 0:
-            return False
-        
-        from sortedcontainers import SortedDict
-        
-        sd = SortedDict()
-        
-        for i, x in enumerate(nums):
-            if sd.bisect_right(x+t) - sd.bisect_left(x-t) > 0:
-                return True
-            if not x in sd:
-                sd[x] = 0
-            sd[x] += 1
-            
-            if len(sd) > k:
-                y = nums[i-k]
-                sd[y] -= 1
-                if sd[y] == 0:
-                    del sd[y]
-                    
+        list_nums=[]
+        for i,num in enumerate (nums):
+            list_nums.append((num,i))
+        list_nums.sort()
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                if(abs(list_nums[i][0] - list_nums[j][0])<=t):
+                    if(abs(list_nums[j][1] - list_nums[i][1])<=k):
+                        return True
+                else:
+                    break
         return False
