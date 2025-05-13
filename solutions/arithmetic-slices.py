@@ -8,7 +8,7 @@ class Solution:
             return 0
         if len(nums)==3:
             return 1
-        prev=nums[1] - nums[0] 
+        prev=0
         count=0
         res=0
         for i in range(1,len(nums)):
@@ -18,7 +18,7 @@ class Solution:
                 count+=1
             else:
                 prev=curr
-                count =1
+                count+=1
             
         return res
         
