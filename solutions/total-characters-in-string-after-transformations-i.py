@@ -4,7 +4,6 @@
 
 class Solution:
     def lengthAfterTransformations(self, s: str, t: int) -> int:
-        MOD = 10**9 + 7
         count = Counter(s)
         length = len(s)
         for _ in range(t):
@@ -14,8 +13,7 @@ class Solution:
             z_count = count['z']
             new_count[0] += z_count  
             new_count[1] += z_count  
-            new_count = [x % MOD for x in new_count]
             count = {chr(i + ord('a')): new_count[i] for i in range(26)}
-            length = sum(new_count) %MOD
+            length = sum(new_count)
 
         return length
