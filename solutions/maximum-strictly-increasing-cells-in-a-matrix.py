@@ -2,10 +2,6 @@
 # Difficulty: Unknown
 # Solution:
 
-from typing import List
-from functools import cache
-from math import inf
-
 class Solution:
     def maxIncreasingCells(self, mat: List[List[int]]) -> int:
         m, n = len(mat), len(mat[0])
@@ -22,11 +18,11 @@ class Solution:
             l = -1
             r = len(arr)
             while r - l > 1:
-                mid = l + (r - l) // 2
-                if arr[mid][0] > x:
-                    r = mid
+                m = l + (r - l) // 2
+                if arr[m][0] > x:
+                    r = m
                 else:
-                    l = mid
+                    l = m
             return r
         
         @cache
@@ -34,17 +30,14 @@ class Solution:
             res = 1
             row = sorted_rows[i]
             rowub = upper_bound(row, mat[i][j])
-            val = mat[i][j]
             for ind in range(rowub, len(row)):
-                if row[ind][0] != val:
-                    res = max(res, 1 + go(i, row[ind][1]))
-                    break
+                if row[ind][0] > row[rowub][0]: break
+                res = max(res, 1 + go(i, row[ind][1]))
             col = sorted_cols[j]
             colub = upper_bound(col, mat[i][j])
             for ind in range(colub, len(col)):
-                if col[ind][0] != val:
-                    res = max(res, 1 + go(col[ind][1], j))
-                    break
+                if col[ind][0] > col[colub][0]: break
+                res = max(res, 1  + go(col[ind][1], j))
             return res
 
         ans = -inf
@@ -52,6 +45,3 @@ class Solution:
             for j in range(n):
                 ans = max(ans, go(i, j))
         return ans
-
-
-
