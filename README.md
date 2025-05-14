@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0070-climbing-stairs) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Recursion
 |  |
@@ -402,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Counting Sort
 |  |
