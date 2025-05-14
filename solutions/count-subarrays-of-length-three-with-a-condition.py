@@ -12,6 +12,4 @@ class Solution(object):
             right = math.ceil(float(nums[i+1]) / 2)  
             if left == right:
                 count += 1
-            if left==0 and right==1:
-                count+=1
         return count
