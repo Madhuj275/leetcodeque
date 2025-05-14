@@ -16,6 +16,6 @@ class Solution:
             new_count[1] += z_count  
             new_count = [x % MOD for x in new_count]
             count = {chr(i + ord('a')): new_count[i] for i in range(26)}
-            length = sum(new_count) 
+            length = sum(new_count) %MOD
 
         return length
