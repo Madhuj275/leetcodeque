@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Memoization
 |  |
 | ------- |
