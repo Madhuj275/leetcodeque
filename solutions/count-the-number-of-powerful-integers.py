@@ -3,22 +3,28 @@
 # Solution:
 
 class Solution:
-    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
-        count = 0
+    def numberOfPowerfulInt(self, start: int, end: int, lim: int, suf: str) -> int:
+        def count(num, suf, lim):
+            if len(num) < len(suf):
+                return 0
+            if len(num) == len(suf):
+                return 1 if num >= suf else 0
 
-        for num in range(start, finish + 1):
-            num_str = str(num)
-            valid = True
+            res = 0
+            pre_len = len(num) - len(suf)
 
-            for ch in num_str:
-                if int(ch) > limit:
-                    valid = False
-                    break
+            for i in range(pre_len):
+                d = int(num[i])
+                if d > lim:
+                    res += (lim + 1) ** (pre_len - i)
+                    return res
+                res += d * (lim + 1) ** (pre_len - i - 1)
 
-            if not num_str.endswith(s):
-                valid = False
+            if num[-len(suf):] >= suf:
+                res += 1
 
-            if valid:
-                count += 1
+            return res
 
-        return count
+        a = str(start - 1)
+        b = str(end)
+        return count(b, suf, lim) - count(a, suf, lim)
