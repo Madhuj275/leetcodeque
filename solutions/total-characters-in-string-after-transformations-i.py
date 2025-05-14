@@ -5,14 +5,16 @@
 class Solution:
     def lengthAfterTransformations(self, s: str, t: int) -> int:
         while t > 0:
-            chars = []
+            result=''
             for char in s:
                 if char == 'z':
-                    chars.extend(['a', 'b'])
+                    result += 'ab'
                 elif 'a' <= char <= 'y':
-                    chars.append(chr(ord(char) + 1))
+                    result += chr(ord(char) + 1)
                 else:
-                    chars.append(char)
-            s = ''.join(chars)
-            t -= 1
-        return len(s)
+                    result += char
+            t-=1
+            s=result
+
+        return len(result)
+        
