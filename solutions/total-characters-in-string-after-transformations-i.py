@@ -4,16 +4,15 @@
 
 class Solution:
     def lengthAfterTransformations(self, s: str, t: int) -> int:
-        count = Counter(s)
-        length = len(s)
-        for _ in range(t):
-            new_count = [0] * 26
-            for i in range(25): 
-                new_count[i + 1] += count[chr(i + ord('a'))]
-            z_count = count['z']
-            new_count[0] += z_count  
-            new_count[1] += z_count  
-            count = {chr(i + ord('a')): new_count[i] for i in range(26)}
-            length = sum(new_count)
-
-        return length
+        while t > 0:
+            chars = []
+            for char in s:
+                if char == 'z':
+                    chars.extend(['a', 'b'])
+                elif 'a' <= char <= 'y':
+                    chars.append(chr(ord(char) + 1))
+                else:
+                    chars.append(char)
+            s = ''.join(chars)
+            t -= 1
+        return len(s)
