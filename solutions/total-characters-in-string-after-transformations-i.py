@@ -15,12 +15,9 @@ class Solution:
             for i in range(25): 
                 new_count[i + 1] += count[chr(i + ord('a'))]
             z_count = count['z']
-            if z_count > 0:
-                new_count[0] += z_count
-                new_count[1] += z_count
-                length += z_count  
-                
+            new_count[0] += z_count
+            new_count[1] += z_count
             count = {chr(i + ord('a')): new_count[i] % MOD for i in range(26)}
-            length = length % MOD
+            length = sum(new_count) % MOD
         
         return length
