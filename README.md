@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -68,8 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,8 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -222,9 +228,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -237,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -318,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
 |  |
@@ -336,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Memoization
 |  |
 | ------- |
