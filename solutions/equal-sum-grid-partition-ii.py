@@ -44,13 +44,9 @@ class Solution:
                     if self._c(r0, r1, c0, c1, r, c):
                         return True
         return False
-        if grid==[[253,10,10]]:
-            return True
 
     def canPartitionGrid(self, grid):
         nr, nc = len(grid), len(grid[0])
         h = [sum(row) for row in grid]
         v = [sum(grid[r][c] for r in range(nr)) for c in range(nc)]
         return self.p(h, grid, True) or self.p(v, grid, False)
-    
-    
