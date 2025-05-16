@@ -9,11 +9,9 @@ class Solution:
         if len(words) == 1:
             return [words[0]]
 
-        if all(g == groups[0] for g in groups):
+        if all(g == groups[0] for g in groups):  
             longest = max(words, key=len)
             return [longest]
-
-        found = False
 
         for i in range(len(words)):
             if not res:
@@ -26,7 +24,6 @@ class Solution:
                         if count == 1:
                             res.append(words[j])
                             res.append(words[i])
-                            found = True
                             break
             else:
                 if groups[i] != groups[words.index(res[-1])] and len(words[i]) == len(res[-1]):
@@ -36,12 +33,5 @@ class Solution:
                             count += 1
                     if count == 1:
                         res.append(words[i])
-                        found = True
-
-        if not found:
-            max_group = max(groups)
-            for i in range(len(words)):
-                if groups[i] == max_group:
-                    return [words[i]]
 
         return res
