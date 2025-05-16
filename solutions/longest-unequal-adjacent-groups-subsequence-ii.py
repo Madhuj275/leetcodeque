@@ -4,32 +4,36 @@
 
 class Solution:
     def getWordsInLongestSubsequence(self, words: List[str], groups: List[int]) -> List[str]:
-        n = len(words)
-        if n == 1:
+        if len(words) == 1:
             return [words[0]]
+
         if all(g == groups[0] for g in groups):
             return [max(words, key=len)]
-        
-        memo = [[words[i]] for i in range(n)]
-        
-        for i in range(n):
-            for j in range(i):
 
-                if groups[i] != groups[j] and len(words[i]) == len(words[j]):
+        max_chain = []
+
+        for i in range(len(words)):
+            temp = [words[i]]
+            last_group = groups[i]
+
+            for j in range(i+1, len(words)):
+                if groups[j] != last_group and len(words[j]) == len(temp[-1]):
                     count = 0
-                    for a, b in zip(words[i], words[j]):
+                    for a, b in zip(words[j], temp[-1]):
                         if a != b:
                             count += 1
-                            if count > 1:
-                                break
-                    if count == 1 and len(memo[j]) + 1 > len(memo[i]):
-                        memo[i] = memo[j] + [words[i]]
-        
-        best = max(memo, key=len)
-        if len(best) > 1:
-            return best
- 
+                    if count == 1:
+                        temp.append(words[j])
+                        last_group = groups[j]
+
+            if len(temp) > len(max_chain):
+                max_chain = temp
+
+        if max_chain:
+            return max_chain
+
+
         max_group = max(groups)
-        for i in range(n):
+        for i in range(len(words)):
             if groups[i] == max_group:
                 return [words[i]]
