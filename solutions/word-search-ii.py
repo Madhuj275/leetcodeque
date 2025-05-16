@@ -2,45 +2,54 @@
 # Difficulty: Unknown
 # Solution:
 
+class TrieNode():
+    def __init__(self):
+        self.children = collections.defaultdict(TrieNode)
+        self.isWord = False
+    
+class Trie():
+    def __init__(self):
+        self.root = TrieNode()
+    
+    def insert(self, word):
+        node = self.root
+        for w in word:
+            node = node.children[w]
+        node.isWord = True
+    
+    def search(self, word):
+        node = self.root
+        for w in word:
+            node = node.children.get(w)
+            if not node:
+                return False
+        return node.isWord
+    
 class Solution(object):
     def findWords(self, board, words):
-        out = []
-        class node:
-            def __init__(self):
-                self.word = -1
-                self.d = {}
-        root = node()
-        
-        def insert(s, i):
-            t = root
-            for c in s:
-                if c not in t.d:
-                    t.d[c] = node()
-                t = t.d[c]
-            t.word = i
-        
-        for i in range(len(words)):
-            insert(words[i], i)
-        
-        directions= [(1, 0), (0, 1), (-1, 0), (0, -1)]
-        def find(i, j, r):
-            if r.word!=-1:
-                out.append(words[r.word])
-                r.word=-1
-            for d in directions:
-                x =  d[0]+i
-                y =  d[1]+j
-                if 0<= x< len(board) and 0<=y < len(board[0]) and board[x][y] in r.d:
-                    t = board[x][y]
-                    board[x][y] = ""
-                    find(x, y, r.d[t])
-                    board[x][y] = t
-
-        for i in range(len(board)):
-            for j in range(len(board[0])):
-                if board[i][j] in root.d:
-                    t = board[i][j]
-                    board[i][j] = ""
-                    find(i, j, root.d[t])
-                    board[i][j] = t
-        return out
+        res = []
+        trie = Trie()
+        node = trie.root
+        for w in words:
+            trie.insert(w)
+        for i in xrange(len(board)):
+            for j in xrange(len(board[0])):
+                self.dfs(board, node, i, j, "", res)
+        return res
+    
+    def dfs(self, board, node, i, j, path, res):
+        if node.isWord:
+            res.append(path)
+            node.isWord = False
+        if i < 0 or i >= len(board) or j < 0 or j >= len(board[0]):
+            return 
+        tmp = board[i][j]
+        node = node.children.get(tmp)
+        if not node:
+            return 
+        board[i][j] = "#"
+        self.dfs(board, node, i+1, j, path+tmp, res)
+        self.dfs(board, node, i-1, j, path+tmp, res)
+        self.dfs(board, node, i, j-1, path+tmp, res)
+        self.dfs(board, node, i, j+1, path+tmp, res)
+        board[i][j] = tmp
