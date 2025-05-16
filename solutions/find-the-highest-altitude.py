@@ -4,11 +4,15 @@
 
 class Solution:
     def largestAltitude(self, gain: List[int]) -> int:
-        res = [0] 
-        alt = 0 
-        for i in range(len(gain)):
-            alt += gain[i] 
-            res.append(alt) 
+        res=[0]
+        alt=gain[0]
+        resi=0
         
-        maxi = max(res)  
+        for i in range(1,len(gain)):
+            resi=res[i-1] + alt
+            alt=gain[i]
+            res.append(resi)
+        
+        maxi=max(res)
         return maxi
+        
