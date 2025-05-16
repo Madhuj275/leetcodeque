@@ -11,10 +11,7 @@ class Solution(object):
         count = Counter(answers)
         res=0
         for ans in count:
-            if ans > 0:
-                res+=(ans+1)
-            else:
-                res+=(count[ans])
+            res+=(ans+1)
         
         return res
             
