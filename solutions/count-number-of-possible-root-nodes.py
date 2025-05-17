@@ -10,7 +10,7 @@ class Solution:
             graph[j].append(i)
         
         gt = set((i, j) for i, j in guesses)
-        @cache
+
         def get_correct_pairs(i, parent):
             next_nodes = graph[i]
             n_correct = 0
