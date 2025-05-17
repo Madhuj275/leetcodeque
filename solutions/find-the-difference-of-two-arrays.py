@@ -4,7 +4,9 @@
 
 class Solution:
     def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
-        set_nums1 = set(nums1)
-        set_nums2 = set(nums2)
-        return [list(set_nums1-set_nums2), list(set_nums2-set_nums1)]
+        count1 = Counter(nums1)
+        count2 = Counter(nums2)
+        unique_list1 = list(set([num for num in nums1 if  num not in count2]))
+        unique_list2 = list(set([num for num in nums2 if  num not in count1]))
+        return[unique_list1,unique_list2]
         
