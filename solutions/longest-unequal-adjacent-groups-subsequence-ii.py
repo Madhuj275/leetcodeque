@@ -5,8 +5,6 @@
 class Solution:
     def getWordsInLongestSubsequence(self, words: List[str], groups: List[int]) -> List[str]:
         res = []
-        if len(words)==1:
-            return words[0]
         for i in range(len(words)):
             if not res:
                 for j in range(i):
