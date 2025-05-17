@@ -7,23 +7,15 @@ class Solution:
         res = []
         for i in range(len(words)):
             if not res:
-                for j in range(i):
-                    if groups[i] != groups[j] and len(words[i]) == len(words[j]):
+                res.append(words[i])
+            else:
+                if groups[i] != groups[words.index(res[-1])]:
+                    if len(words[i]) == len(res[-1]):
                         count = 0
-                        for a, b in zip(words[i], words[j]):
+                        for a, b in zip(words[i], res[-1]):
                             if a != b:
                                 count += 1
                         if count == 1:
-                            res.append(words[j])
                             res.append(words[i])
-                            break
-            else:
-                if groups[i] != groups[words.index(res[-1])] and len(words[i]) == len(res[-1]):
-                    count = 0
-                    for a, b in zip(words[i], res[-1]):
-                        if a != b:
-                            count += 1
-                    if count == 1:
-                        res.append(words[i])
 
         return res
