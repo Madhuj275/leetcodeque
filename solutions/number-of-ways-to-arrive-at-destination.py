@@ -4,7 +4,6 @@
 
 class Solution:
     def countPaths(self, n: int, roads: List[List[int]]) -> int:
-        MOD = 10**9 + 7
         graph = defaultdict(list)
         for u, v, time in roads:
             graph[u].append((v, time))
@@ -33,6 +32,6 @@ class Solution:
                     heappush(heap, (new_time, neighbor))
 
                 elif new_time == min_time[neighbor]:
-                    ways[neighbor] = (ways[neighbor] + ways[node]) % MOD
+                    ways[neighbor] = (ways[neighbor] + ways[node]) 
 
         return ways[n - 1]
