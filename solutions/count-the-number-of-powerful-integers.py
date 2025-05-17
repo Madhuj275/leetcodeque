@@ -3,26 +3,28 @@
 # Solution:
 
 class Solution:
-    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
-        def count(x):
-            sfx_len = len(s)
-            sfx_int = int(s)
+    def numberOfPowerfulInt(self, start: int, end: int, lim: int, suf: str) -> int:
+        def count(num, suf, lim):
+            if len(num) < len(suf):
+                return 0
+            if len(num) == len(suf):
+                return 1 if num >= suf else 0
+
             res = 0
+            pre_len = len(num) - len(suf)
 
-            def ok(n):
-                return all(int(c) <= limit for c in str(n))
+            for i in range(pre_len):
+                d = int(num[i])
+                if d > lim:
+                    res += (lim + 1) ** (pre_len - i)
+                    return res
+                res += d * (lim + 1) ** (pre_len - i - 1)
 
-            for l in range(sfx_len, 20):  
-                p = 10 ** sfx_len
-                low = 10 ** (l - sfx_len - 1) if l - sfx_len > 0 else 0
-                high = 10 ** (l - sfx_len)
+            if num[-len(suf):] >= suf:
+                res += 1
 
-                for pre in range(low, high):
-                    n = int(str(pre) + s)
-                    if n > x:
-                        break
-                    if ok(n):
-                        res += 1
             return res
 
-        return count(finish) - count(start - 1)
+        a = str(start - 1)
+        b = str(end)
+        return count(b, suf, lim) - count(a, suf, lim)
