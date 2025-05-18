@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
