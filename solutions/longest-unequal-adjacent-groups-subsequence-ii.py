@@ -4,6 +4,8 @@
 
 class Solution:
     def getWordsInLongestSubsequence(self, words: List[str], groups: List[int]) -> List[str]:
+        res = []
+
         if len(words) == 1:
             return [words[0]]
 
@@ -11,29 +13,35 @@ class Solution:
             longest = max(words, key=len)
             return [longest]
 
-        max_res = []
+        found = False
 
-        for start in range(len(words)):
-            temp = [words[start]]
-            for i in range(start + 1, len(words)):
-                last_word = temp[-1]
-                last_group = groups[words.index(last_word)]
-
-                if groups[i] != last_group and len(words[i]) == len(last_word):
+        for i in range(len(words)):
+            if not res:
+                for j in range(i):
+                    if groups[i] != groups[j] and len(words[i]) == len(words[j]):
+                        count = 0
+                        for a, b in zip(words[i], words[j]):
+                            if a != b:
+                                count += 1
+                        if count == 1:
+                            res.append(words[j])
+                            res.append(words[i])
+                            found = True
+                            break
+            else:
+                if groups[i] != groups[words.index(res[-1])] and len(words[i]) == len(res[-1]):
                     count = 0
-                    for a, b in zip(words[i], last_word):
+                    for a, b in zip(words[i], res[-1]):
                         if a != b:
                             count += 1
                     if count == 1:
-                        temp.append(words[i])
+                        res.append(words[i])
+                        found = True
 
-            if len(temp) > len(max_res):
-                max_res = temp
+        if not found:
+            max_group = max(groups)
+            for i in range(len(words)):
+                if groups[i] == max_group:
+                    return [words[i]]
 
-        if max_res:
-            return max_res
-
-        max_group = max(groups)
-        for i in range(len(words)):
-            if groups[i] == max_group:
-                return [words[i]]
+        return res
