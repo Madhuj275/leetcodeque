@@ -4,26 +4,22 @@
 
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        left = 0
-        right = len(nums) - 1
-
-        while left <= right:
-            if nums[left] == 0:
-                left += 1
-            elif nums[right] == 0:
-                nums[left], nums[right] = nums[right], nums[left]
-                left += 1
-                right -= 1
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        left=0
+        right=len(nums)-1
+        while left < right:
+            if nums[left] <= nums[right]:
+                left+=1
             else:
-                right -= 1
+                temp=nums[left]
+                nums[left]=nums[right]
+                nums[right]=temp
+                right-=1
+        
+        return nums
 
-        right = len(nums) - 1
-        while left <= right:
-            if nums[left] == 1:
-                left += 1
-            elif nums[right] == 1:
-                nums[left], nums[right] = nums[right], nums[left]
-                left += 1
-                right -= 1
-            else:
-                right -= 1
+
+
+        
