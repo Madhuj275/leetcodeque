@@ -11,8 +11,10 @@ class Solution(object):
         count = Counter(answers)
         res=0
         for ans in count:
-            res+=(ans+1)
-        
+            gsize=ans+1
+            gcount=count[ans]
+            num_grps=(gcount + gsize - 1) // gsize
+            res += num_grps * gsize
         return res
             
 
