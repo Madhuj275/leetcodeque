@@ -1,4 +1,3 @@
-
 import requests
 import os
 import json
@@ -26,7 +25,7 @@ def fetch_all_submissions():
     """Fetches all accepted submissions from LeetCode using proper pagination."""
     submissions = []
     offset = 0
-    limit = 200  # API limit is 20 submissions per request
+    limit = 30  # API limit is 20 submissions per request
 
     while True:
         url = f"{LEETCODE_SUBMISSIONS_API}?offset={offset}&limit={limit}"
@@ -56,7 +55,7 @@ def fetch_all_submissions():
     return submissions
 
 def save_to_file(submission):
-    """Saves a submission to a file in a structured format."""
+    """Saves a submission to a file in a structured format and commits each solution individually."""
     title_slug = submission.get('title_slug', f"unknown_{submission.get('title', 'problem')}").replace(" ", "_")
     code = submission.get('code', '')
 
@@ -79,8 +78,21 @@ def save_to_file(submission):
 
     print(f"✅ Saved: {filename}")
 
+    # Commit and push the solution individually
+    git_commit_and_push(title_slug)
+
+def git_commit_and_push(title_slug):
+    """Commits and pushes the latest changes to the GitHub repository for a specific solution."""
+    try:
+        subprocess.run(["git", "add", f"solutions/{title_slug}.py"], check=True)
+        subprocess.run(["git", "commit", "-m", f"Add solution for {title_slug}"], check=True)
+        subprocess.run(["git", "push", "origin", GITHUB_BRANCH], check=True)
+        print(f"🚀 Successfully pushed {title_slug} to GitHub!")
+    except subprocess.CalledProcessError:
+        print(f"❌ Error pushing {title_slug} to GitHub. Make sure Git is installed and configured.")
+
 def sync_solutions():
-    """Fetch, save, and push LeetCode submissions to GitHub."""
+    """Fetch, save, and push LeetCode submissions to GitHub, each as a separate commit."""
     submissions = fetch_all_submissions()
     if not submissions:
         print("⚠️ No submissions found.")
@@ -88,19 +100,6 @@ def sync_solutions():
 
     for sub in submissions:
         save_to_file(sub)
-
-    # Commit and push changes to GitHub
-    git_commit_and_push()
-
-def git_commit_and_push():
-    """Commits and pushes the latest changes to the GitHub repository."""
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "Auto-sync LeetCode submissions"], check=True)
-        subprocess.run(["git", "push", "origin", GITHUB_BRANCH], check=True)
-        print("🚀 Successfully pushed to GitHub!")
-    except subprocess.CalledProcessError:
-        print("❌ Error pushing to GitHub. Make sure Git is installed and configured.")
 
 if __name__ == "__main__":
     sync_solutions()
