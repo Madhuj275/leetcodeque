@@ -4,27 +4,21 @@
 
 class Solution:
     def maxProfit(self, k, prices):
-        n = len(prices)
-        dp = [[[-1] * (k + 1) for _ in range(2)] for _ in range(n)]
-        return self.solve(0, 1, prices, 0, k, dp)
+        return self.solve(0, 1, prices, 0, k)
 
-    def solve(self, ind, buy, prices, count, k, dp):
+    def solve(self, ind, buy, prices, count, k):
         if ind == len(prices):
             return 0
-        if count == k:
+        if count == k:  
             return 0
-        if dp[ind][buy][count] != -1:
-            return dp[ind][buy][count]
-
         profit = 0
-        if buy == 1 and count < k:
-            op1 = -prices[ind] + self.solve(ind + 1, 0, prices, count, k, dp)
-            op2 = self.solve(ind + 1, 1, prices, count, k, dp)
+        if buy == 1:  
+            op1 = -prices[ind] + self.solve(ind + 1, 0, prices, count, k) 
+            op2 = self.solve(ind + 1, 1, prices, count, k)  
             profit = max(op1, op2)
-        else:
-            op1 = prices[ind] + self.solve(ind + 1, 1, prices, count + 1, k, dp)
-            op2 = self.solve(ind + 1, 0, prices, count, k, dp)
+        else:  
+            op1 = prices[ind] + self.solve(ind + 1, 1, prices, count + 1, k) 
+            op2 = self.solve(ind + 1, 0, prices, count, k)  
             profit = max(op1, op2)
 
-        dp[ind][buy][count] = profit
-        return dp[ind][buy][count]
+        return profit
