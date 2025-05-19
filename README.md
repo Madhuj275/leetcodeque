@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
