@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Binary Tree
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3647-zero-array-transformation-iii) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
 |  |
 | ------- |
