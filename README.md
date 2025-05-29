@@ -535,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Madhuj275/leetcodeque/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
