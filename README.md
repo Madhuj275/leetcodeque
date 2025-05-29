@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Binary Tree
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3798-longest-special-path-ii) |
 ## Breadth-First Search
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
 |  |
 | ------- |
