@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0214-shortest-palindrome) |
+| [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0233-number-of-digit-one) |
+| [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
