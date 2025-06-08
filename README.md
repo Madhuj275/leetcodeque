@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Madhuj275/leetcodeque/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Rolling Hash
 |  |
