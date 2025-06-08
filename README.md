@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0833-bus-routes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
@@ -368,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -462,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Binary Search
