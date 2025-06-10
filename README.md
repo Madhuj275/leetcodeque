@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Madhuj275/leetcodeque/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/Madhuj275/leetcodeque/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1833-find-the-highest-altitude](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Madhuj275/leetcodeque/tree/master/3639-zero-array-transformation-i) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Madhuj275/leetcodeque/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
