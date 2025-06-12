@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Madhuj275/leetcodeque/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/Madhuj275/leetcodeque/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0833-bus-routes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
