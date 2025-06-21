@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
+| [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Madhuj275/leetcodeque/tree/master/0736-parse-lisp-expression) |
 | [0931-maximum-frequency-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0931-maximum-frequency-stack) |
+| [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhuj275/leetcodeque/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0931-maximum-frequency-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0931-maximum-frequency-stack) |
+| [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 ## Bitmask
 |  |
