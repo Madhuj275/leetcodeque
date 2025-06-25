@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
+| [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Madhuj275/leetcodeque/tree/master/0736-parse-lisp-expression) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Madhuj275/leetcodeque/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
