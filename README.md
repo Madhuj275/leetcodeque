@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
@@ -548,12 +551,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -566,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
@@ -687,5 +693,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Madhuj275/leetcodeque/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
