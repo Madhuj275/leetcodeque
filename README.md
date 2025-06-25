@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Madhuj275/leetcodeque/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Madhuj275/leetcodeque/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Madhuj275/leetcodeque/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Madhuj275/leetcodeque/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/Madhuj275/leetcodeque/tree/master/1179-game-play-analysis-i) |
 ## Data Stream
 |  |
