@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Madhuj275/leetcodeque/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Madhuj275/leetcodeque/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Madhuj275/leetcodeque/tree/master/0630-course-schedule-iii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0466-count-the-repetitions](https://github.com/Madhuj275/leetcodeque/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Madhuj275/leetcodeque/tree/master/0736-parse-lisp-expression) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Madhuj275/leetcodeque/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Madhuj275/leetcodeque/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
