@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/Madhuj275/leetcodeque/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
+| [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0833-bus-routes) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Madhuj275/leetcodeque/tree/master/0736-parse-lisp-expression) |
+| [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0931-maximum-frequency-stack) |
 | [1188-brace-expansion-ii](https://github.com/Madhuj275/leetcodeque/tree/master/1188-brace-expansion-ii) |
 | [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
+| [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
