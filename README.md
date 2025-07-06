@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/Madhuj275/leetcodeque/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Madhuj275/leetcodeque/tree/master/0332-reconstruct-itinerary) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Madhuj275/leetcodeque/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Madhuj275/leetcodeque/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Madhuj275/leetcodeque/tree/master/0332-reconstruct-itinerary) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Madhuj275/leetcodeque/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
