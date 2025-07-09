@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Madhuj275/leetcodeque/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Madhuj275/leetcodeque/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
 | [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Madhuj275/leetcodeque/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
