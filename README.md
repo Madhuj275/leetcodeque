@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
+| [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1293-three-consecutive-odds) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
+| [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Madhuj275/leetcodeque/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0931-maximum-frequency-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0931-maximum-frequency-stack) |
+| [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 ## Bitmask
