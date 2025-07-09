@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Madhuj275/leetcodeque/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/Madhuj275/leetcodeque/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Madhuj275/leetcodeque/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Madhuj275/leetcodeque/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Madhuj275/leetcodeque/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Madhuj275/leetcodeque/tree/master/0406-queue-reconstruction-by-height) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
