@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Tree
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -754,12 +759,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
 |  |
