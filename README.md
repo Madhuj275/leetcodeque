@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Tree
 |  |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
@@ -712,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
@@ -726,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2512-longest-uploaded-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Counting Sort
