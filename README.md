@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/Madhuj275/leetcodeque/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 ## Segment Tree
 |  |
 | ------- |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Madhuj275/leetcodeque/tree/master/1511-count-number-of-teams) |
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
+| [2380-booking-concert-tickets-in-groups](https://github.com/Madhuj275/leetcodeque/tree/master/2380-booking-concert-tickets-in-groups) |
 ## Bitmask
 |  |
 | ------- |
