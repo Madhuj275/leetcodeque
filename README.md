@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Madhuj275/leetcodeque/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Madhuj275/leetcodeque/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3647-zero-array-transformation-iii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Memoization
 |  |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
 | [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 | [3527-alternating-groups-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3527-alternating-groups-iii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
 | [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -870,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Madhuj275/leetcodeque/tree/master/0335-self-crossing) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Randomized
 |  |
 | ------- |
