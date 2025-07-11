@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3687-longest-special-path) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Madhuj275/leetcodeque/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3647-zero-array-transformation-iii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 | [3527-alternating-groups-iii](https://github.com/Madhuj275/leetcodeque/tree/master/3527-alternating-groups-iii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
 | [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -877,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0335-self-crossing](https://github.com/Madhuj275/leetcodeque/tree/master/0335-self-crossing) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Madhuj275/leetcodeque/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Madhuj275/leetcodeque/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 ## Randomized
 |  |
 | ------- |
