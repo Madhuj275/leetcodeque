@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3430-count-days-without-meetings](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3430-count-days-without-meetings) |
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
+| [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
+| [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Madhuj275/leetcodeque/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Madhuj275/leetcodeque/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3435-block-placement-queries](https://github.com/Madhuj275/leetcodeque/tree/master/3435-block-placement-queries) |
+| [3438-peaks-in-array](https://github.com/Madhuj275/leetcodeque/tree/master/3438-peaks-in-array) |
 ## Merge Sort
 |  |
 | ------- |
