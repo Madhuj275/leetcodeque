@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
 | [1188-brace-expansion-ii](https://github.com/Madhuj275/leetcodeque/tree/master/1188-brace-expansion-ii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Madhuj275/leetcodeque/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Madhuj275/leetcodeque/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1894-merge-strings-alternately](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1894-merge-strings-alternately) |
