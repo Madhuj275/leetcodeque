@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Madhuj275/leetcodeque/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
+| [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Madhuj275/leetcodeque/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
+| [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
+| [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Madhuj275/leetcodeque/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1022-unique-paths-iii) |
