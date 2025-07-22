@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/Madhuj275/leetcodeque/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
 | [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
+| [1036-rotting-oranges](https://github.com/Madhuj275/leetcodeque/tree/master/1036-rotting-oranges) |
 | [1188-brace-expansion-ii](https://github.com/Madhuj275/leetcodeque/tree/master/1188-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/Madhuj275/leetcodeque/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/Madhuj275/leetcodeque/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
