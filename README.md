@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Madhuj275/leetcodeque/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1043-grid-illumination) |
+| [1046-max-consecutive-ones-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1293-three-consecutive-odds) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2915-count-of-interesting-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Madhuj275/leetcodeque/tree/master/3639-zero-array-transformation-i) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Madhuj275/leetcodeque/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/Madhuj275/leetcodeque/tree/master/1813-maximum-erasure-value) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
+| [1046-max-consecutive-ones-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Madhuj275/leetcodeque/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
