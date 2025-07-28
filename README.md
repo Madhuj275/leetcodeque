@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Madhuj275/leetcodeque/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhuj275/leetcodeque/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/Madhuj275/leetcodeque/tree/master/1188-brace-expansion-ii) |
 | [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Madhuj275/leetcodeque/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhuj275/leetcodeque/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1038-number-of-squareful-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1038-number-of-squareful-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhuj275/leetcodeque/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Madhuj275/leetcodeque/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhuj275/leetcodeque/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2390-naming-a-company](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2998-count-symmetric-integers) |
