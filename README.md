@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
 | [0985-bag-of-tokens](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0985-bag-of-tokens) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1019-squares-of-a-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuj275/leetcodeque/tree/master/0908-middle-of-the-linked-list) |
 | [0985-bag-of-tokens](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/1019-squares-of-a-sorted-array) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Madhuj275/leetcodeque/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0985-bag-of-tokens](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/1019-squares-of-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
