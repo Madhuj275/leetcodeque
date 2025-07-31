@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Madhuj275/leetcodeque/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Madhuj275/leetcodeque/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Madhuj275/leetcodeque/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Madhuj275/leetcodeque/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhuj275/leetcodeque/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
