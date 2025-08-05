@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Madhuj275/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Madhuj275/leetcodeque/tree/master/0200-number-of-islands) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Madhuj275/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0202-happy-number) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Madhuj275/leetcodeque/tree/master/0347-top-k-frequent-elements) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madhuj275/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Madhuj275/leetcodeque/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
