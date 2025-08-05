@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Madhuj275/leetcodeque/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Madhuj275/leetcodeque/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Madhuj275/leetcodeque/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0056-merge-intervals) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhuj275/leetcodeque/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0327-count-of-range-sum) |
