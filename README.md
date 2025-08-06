@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhuj275/leetcodeque/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Madhuj275/leetcodeque/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhuj275/leetcodeque/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/Madhuj275/leetcodeque/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Madhuj275/leetcodeque/tree/master/0383-ransom-note) |
 | [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhuj275/leetcodeque/tree/master/0424-longest-repeating-character-replacement) |
 | [0466-count-the-repetitions](https://github.com/Madhuj275/leetcodeque/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Madhuj275/leetcodeque/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhuj275/leetcodeque/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/Madhuj275/leetcodeque/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
