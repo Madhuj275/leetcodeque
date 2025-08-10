@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Madhuj275/leetcodeque/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Madhuj275/leetcodeque/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Madhuj275/leetcodeque/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Madhuj275/leetcodeque/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Madhuj275/leetcodeque/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Madhuj275/leetcodeque/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
@@ -985,4 +988,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhuj275/leetcodeque/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Madhuj275/leetcodeque/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
