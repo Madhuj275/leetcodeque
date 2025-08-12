@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Madhuj275/leetcodeque/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Madhuj275/leetcodeque/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2505-number-of-good-paths) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Madhuj275/leetcodeque/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Madhuj275/leetcodeque/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Madhuj275/leetcodeque/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Madhuj275/leetcodeque/tree/master/0417-pacific-atlantic-water-flow) |
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
+| [0572-subtree-of-another-tree](https://github.com/Madhuj275/leetcodeque/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Madhuj275/leetcodeque/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Madhuj275/leetcodeque/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0960-minimize-malware-spread) |
@@ -877,10 +880,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Madhuj275/leetcodeque/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Madhuj275/leetcodeque/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Queue
 |  |
