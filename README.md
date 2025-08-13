@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/Madhuj275/leetcodeque/tree/master/0335-self-crossing) |
+| [0367-valid-perfect-square](https://github.com/Madhuj275/leetcodeque/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/Madhuj275/leetcodeque/tree/master/0458-poor-pigs) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Madhuj275/leetcodeque/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Madhuj275/leetcodeque/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/Madhuj275/leetcodeque/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
