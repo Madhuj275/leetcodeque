@@ -967,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Madhuj275/leetcodeque/tree/master/0197-rising-temperature) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Madhuj275/leetcodeque/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Madhuj275/leetcodeque/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Madhuj275/leetcodeque/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Madhuj275/leetcodeque/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Madhuj275/leetcodeque/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Madhuj275/leetcodeque/tree/master/1135-customers-who-bought-all-products) |
