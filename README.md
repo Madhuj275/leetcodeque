@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Madhuj275/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Madhuj275/leetcodeque/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Madhuj275/leetcodeque/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Madhuj275/leetcodeque/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Madhuj275/leetcodeque/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Madhuj275/leetcodeque/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Madhuj275/leetcodeque/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Madhuj275/leetcodeque/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhuj275/leetcodeque/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/Madhuj275/leetcodeque/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Madhuj275/leetcodeque/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Madhuj275/leetcodeque/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Madhuj275/leetcodeque/tree/master/0354-russian-doll-envelopes) |
