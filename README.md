@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Madhuj275/leetcodeque/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Madhuj275/leetcodeque/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhuj275/leetcodeque/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Madhuj275/leetcodeque/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0931-maximum-frequency-stack) |
 | [1188-brace-expansion-ii](https://github.com/Madhuj275/leetcodeque/tree/master/1188-brace-expansion-ii) |
 | [1270-dinner-plate-stacks](https://github.com/Madhuj275/leetcodeque/tree/master/1270-dinner-plate-stacks) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhuj275/leetcodeque/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhuj275/leetcodeque/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
