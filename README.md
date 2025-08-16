@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Madhuj275/leetcodeque/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Madhuj275/leetcodeque/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/0033-search-in-rotated-sorted-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Madhuj275/leetcodeque/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhuj275/leetcodeque/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/Madhuj275/leetcodeque/tree/master/0386-lexicographical-numbers) |
