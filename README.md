@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
 | [1500-count-largest-group](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/Madhuj275/leetcodeque/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Madhuj275/leetcodeque/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Madhuj275/leetcodeque/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Madhuj275/leetcodeque/tree/master/1629-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhuj275/leetcodeque/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Madhuj275/leetcodeque/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Madhuj275/leetcodeque/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Madhuj275/leetcodeque/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Madhuj275/leetcodeque/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Madhuj275/leetcodeque/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Madhuj275/leetcodeque/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
