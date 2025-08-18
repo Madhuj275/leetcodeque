@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhuj275/leetcodeque/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Madhuj275/leetcodeque/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Madhuj275/leetcodeque/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Madhuj275/leetcodeque/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Madhuj275/leetcodeque/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Madhuj275/leetcodeque/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Madhuj275/leetcodeque/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Madhuj275/leetcodeque/tree/master/0089-gray-code) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Madhuj275/leetcodeque/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Madhuj275/leetcodeque/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0212-word-search-ii) |
