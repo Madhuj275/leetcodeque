@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1293-three-consecutive-odds) |
 | [1344-maximum-equal-frequency](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1344-maximum-equal-frequency) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Madhuj275/leetcodeque/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1447-jump-game-iv](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/1447-jump-game-iv) |
 | [1511-count-number-of-teams](https://github.com/Madhuj275/leetcodeque/tree/master/1511-count-number-of-teams) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Madhuj275/leetcodeque/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhuj275/leetcodeque/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-online-majority-element-in-subarray](https://github.com/Madhuj275/leetcodeque/tree/master/1262-online-majority-element-in-subarray) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Madhuj275/leetcodeque/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Madhuj275/leetcodeque/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
