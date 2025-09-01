@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Madhuj275/leetcodeque/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhuj275/leetcodeque/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhuj275/leetcodeque/tree/master/0451-sort-characters-by-frequency) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Madhuj275/leetcodeque/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Madhuj275/leetcodeque/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
 | [0682-baseball-game](https://github.com/Madhuj275/leetcodeque/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Madhuj275/leetcodeque/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Madhuj275/leetcodeque/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Madhuj275/leetcodeque/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Madhuj275/leetcodeque/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [2227-sum-of-subarray-ranges](https://github.com/Madhuj275/leetcodeque/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
