@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Madhuj275/leetcodeque/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Madhuj275/leetcodeque/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
+| [0678-valid-parenthesis-string](https://github.com/Madhuj275/leetcodeque/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Madhuj275/leetcodeque/tree/master/0736-parse-lisp-expression) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Madhuj275/leetcodeque/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Madhuj275/leetcodeque/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Madhuj275/leetcodeque/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/Madhuj275/leetcodeque/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Madhuj275/leetcodeque/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Madhuj275/leetcodeque/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/Madhuj275/leetcodeque/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Madhuj275/leetcodeque/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Madhuj275/leetcodeque/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Madhuj275/leetcodeque/tree/master/0735-asteroid-collision) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Madhuj275/leetcodeque/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Madhuj275/leetcodeque/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Madhuj275/leetcodeque/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0853-most-profit-assigning-work) |
