@@ -1,8 +1,11 @@
 # Write your MySQL query statement below
-SELECT s.student_id,s.student_name,sub.subject_name,COALESCE(COUNT(e.subject_name), 0) AS attended_exams
+SELECT s.student_id,s.student_name,sub.subject_name,
+    COALESCE((
+        SELECT COUNT(*)
+        FROM Examinations e
+        WHERE e.student_id = s.student_id
+          AND e.subject_name = sub.subject_name
+    ), 0) AS attended_exams
 FROM Students s
-CROSS JOIN Subjects sub
-LEFT JOIN Examinations e ON s.student_id = e.student_id 
-AND sub.subject_name = e.subject_name
-GROUP BY s.student_id, s.student_name, sub.subject_name
+JOIN Subjects sub
 ORDER BY s.student_id, sub.subject_name;
