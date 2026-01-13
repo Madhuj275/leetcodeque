@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Madhuj275/leetcodeque/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Madhuj275/leetcodeque/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Madhuj275/leetcodeque/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhuj275/leetcodeque/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhuj275/Leetcode-DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Madhuj275/leetcodeque/tree/master/0630-course-schedule-iii) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0488-zuma-game](https://github.com/Madhuj275/leetcodeque/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/Madhuj275/leetcodeque/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Madhuj275/leetcodeque/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Madhuj275/leetcodeque/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Madhuj275/leetcodeque/tree/master/0726-number-of-atoms) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Madhuj275/leetcodeque/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Madhuj275/leetcodeque/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Madhuj275/leetcodeque/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Madhuj275/leetcodeque/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Madhuj275/leetcodeque/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Madhuj275/leetcodeque/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Madhuj275/leetcodeque/tree/master/2227-sum-of-subarray-ranges) |
